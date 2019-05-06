@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
 
-    selector: 'event-details',
+    //selector: 'event-details',
     templateUrl: './event-details.component.html',
     styleUrls: ['../city/city-list.component.css']
 })

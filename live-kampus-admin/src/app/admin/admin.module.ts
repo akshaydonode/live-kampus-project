@@ -9,6 +9,7 @@ import { CityModule } from './city/city.module';
 import { EventModule } from './event/event.module';
 import { UserModule } from './users/users.module';
 import { RoomSpaceModule } from './roomspace/roomspace.module';
+import { NotificationModule } from './notification/notification.module';
 
 @NgModule({
     declarations:[AdminComponent],
@@ -19,6 +20,7 @@ import { RoomSpaceModule } from './roomspace/roomspace.module';
         EventModule,
         UserModule,
         RoomSpaceModule,
+        NotificationModule,
         RouterModule.forChild(adminRoutes)
     ],
     exports:[

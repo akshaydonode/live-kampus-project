@@ -4,6 +4,6 @@ import { NotificationComponent } from './notification.component';
 
 
 export const notificationRoutes: Routes = [
-    { path: "admin/eventlist", component: NotificationComponent },
+    { path: "admin/notification", component: NotificationComponent },
 
 ];

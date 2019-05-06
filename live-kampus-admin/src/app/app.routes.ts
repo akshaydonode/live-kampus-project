@@ -4,6 +4,6 @@ import { AppComponent } from './app.component';
 
 export const appRoutes: Routes=[
     {path:"home",component:AppComponent},
-    {path:"",component:AppComponent}
+    //{path:"",component:AppComponent}
     
 ];
