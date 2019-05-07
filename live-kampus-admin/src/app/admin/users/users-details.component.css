@@ -82,3 +82,8 @@ p {
 .user-shots{
     text-align: left;
 }
+.container{
+    margin-left: 280px;
+    position: absolute;
+    top: 100px;
+    }

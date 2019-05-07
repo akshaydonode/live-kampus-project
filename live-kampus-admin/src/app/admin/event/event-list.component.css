@@ -32,3 +32,9 @@
 .card{
     margin-top: 20px;
 }
+.container{
+    margin-left: 280px;
+    position: absolute;
+    top: 100px;
+    }
+  
